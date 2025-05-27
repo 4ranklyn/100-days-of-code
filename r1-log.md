@@ -11,4 +11,4 @@ It's night, I am just beginning to fork the repo for this journey. I might not b
 ### Day 1
 I'm opening codedex react course at this day. Did my first chapter on creating social media post.
 
-![image info](.\pics\Screenshot_119.png)
+![image info](./pics/Screenshot_119.png)
